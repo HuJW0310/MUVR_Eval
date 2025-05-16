@@ -25,6 +25,9 @@ bash 2_muvr_base.sh
 ```
 bash 3_muvr_filter.sh
 ```
+### For evaluation on InternVL
+Please move the files under `InternVL` to the repo of InternVL and follow their instructions.
+The URL of InternVL[https://github.com/OpenGVLab/InternVL].
 
 ### For extra feature extraction
 We opensourced 2 types of video features we extracted. If extra feature needed, see `./scripts/1_extract_features.sh`
