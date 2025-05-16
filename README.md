@@ -32,4 +32,4 @@ Please move the files under `InternVL` to the repo of InternVL for evaluation.
 The URL of InternVL[https://github.com/OpenGVLab/InternVL].
 
 ### For extra feature extraction
-We opensourced 2 types of video features we extracted. If extra feature needed, see `./scripts/1_extract_features.sh`
+We opensourced 2 types of video features we extracted. If extra feature needed, please refer to `./scripts/1_extract_features.sh`.
