@@ -1,4 +1,4 @@
-# MuVR
+# MUVR
 Our Huggingface URL[https://huggingface.co/datasets/debby0527/MUVR]
 
 ## Envrironment
